@@ -1,0 +1,24 @@
+(tts) C:\Users\spatt\Desktop\tts\text_to_speech>tree /F
+Folder PATH listing for volume Windows
+Volume serial number is 1AFB-3E93
+C:.
+    app.py
+    backend_batch_01.py
+    README.md
+    requirements.txt
+
+No subfolders exist
+
+
+(mistral_ocr) C:\Users\spatt\Desktop\mistral_ocr>tree /F
+Folder PATH listing for volume Windows
+Volume serial number is 1AFB-3E93
+C:.
+│   app.py
+│   batch_ocr.py
+│   README.md
+│   requirements.txt
+│
+└───batchoutput
+        batch_ocr_results_1747760937.json
+        batch_ocr_results_1747761721.json
